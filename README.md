@@ -48,7 +48,7 @@ intents.json file will look like this:
  ![image](https://github.com/Ayishwaryaa/SimpleChatBot/assets/112137001/88112b0b-e137-40a3-84b2-6b7750b91c4b)
 
 
-** 2.	Preprocess data**
+**2.	Preprocess data**
 
 Next step is to perform various preprocessing on the text data before we make a machine learning or a deep learning model. Based on the requirements we need to apply various operations to preprocess the data.
 
